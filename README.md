@@ -1,7 +1,4 @@
 
-
-## 4. `Hotel-WebSite`
-
 # Hotel Website
 
 Bu proje bir otel web sitesi taslağıdır ve otelin tanıtımı için kullanılabilir bir şablon sunar.
@@ -14,6 +11,5 @@ Bu proje bir otel web sitesi taslağıdır ve otelin tanıtımı için kullanıl
 - Responsive tasarım (mobil ve masaüstü uyumlu)
 
 ## Teknolojiler
-
 - HTML  
 - CSS  
